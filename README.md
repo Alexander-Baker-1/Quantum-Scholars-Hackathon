@@ -15,3 +15,11 @@ Problem Set 2 Question 3
 (iii) Based on your observations in cases when Eve is not detected what would you guess is the expected length of SK in terms of n?
 
     I would guess that the expected length of SK is about n/2 because t is generated randomly so that half of the bits should be 1 and half of the bits should be 0.
+
+Problem Set 3 Question 3
+
+(h) ![Histogram r = 1](image2.png)
+
+(i) ![Histogram r = 3](image3.png)
+
+(j) As seen in the two histograms, when r = 1 the marked state 1011 is already measured more frequently than the other states, but with r = 3 = ⌊π√N/4⌋ the marked state dominates even more dramatically, with all other states being nearly zero. This visually confirms that r = 3 is considerably better.
